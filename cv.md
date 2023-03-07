@@ -1,4 +1,4 @@
-# [ rsschool-cv ](https://github.com/Crossroads30/rsschool-cv/edit/gh-pages/cv.md) 
+# [ rsschool-cv ](https://Crossroads30.github.io/rsschool-cv/cv) 
 # **Yakov Zabalotnyi**
 ## CONTACTS:
 * Location: Minsk,Belarus
@@ -15,9 +15,9 @@ today im looking foward to improove myself in learning such an interesting shere
 it's never too late to learn for some new things!
 ## My Experience
 
-RS-SCHOOL stage0 tasks: 'plants', 'momentum';
-RS-SCHOOL stage1 task: 'online-zoo';
-Codewars katas 8,7,6.
+RS-SCHOOL stage0 tasks: 'plants', 'momentum';      
+RS-SCHOOL stage1 task: 'online-zoo';       
+Codewars katas 8,7,6.      
 ## Code example:
 ``` 
 let a = prompt('what is the sum of the numbers 23 & 32?');
