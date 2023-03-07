@@ -13,3 +13,22 @@ Over the past ten years, I have worked in the  "altoros"  IT company as a procur
 I have a lot of experience in organizing everything necessary for the company's employees. 
 today im looking foward to improove myself in learning such an interesting shere as front end developing 
 it's never too late to learn for some new things!
+## My Experience
+
+RS-SCHOOL stage0 tasks: 'plants', 'momentum';
+RS-SCHOOL stage1 task: 'online-zoo';
+Codewars katas 8,7,6.
+## Code example:
+``` 
+let a = prompt('what is the sum of the numbers 23 & 32?');
+let b = 55;
+alert(`your result: ${a} `); 
+alert(`correct result: ${b}`);
+
+```
+## Courses
+
+rsschcool: stage0 - stage1.
+## English level
+
+Pre-Intermediate.
